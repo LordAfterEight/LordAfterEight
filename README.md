@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm just some german dude working on too many things simultaneously, using primarily Rust :3
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordaftereight&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordaftereight&layout=compact&theme=radical&reload=true)
 
 <!--
 **LordAfterEight/LordAfterEight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
